@@ -10,7 +10,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/StoryDiffusion-jupyter/blob/main/StoryDiffusion_jupyter.ipynb) | StoryDiffusion_jupyter (Pro Colab 😭)
 
 ### 📋 Tutorial
-- Enter a Textual Description for Character, if you add the Ref-Image, making sure to follow the class word you want to customize with the trigger word: img, such as: man img or woman img or -girl img.
+- Enter a Textual Description for Character, if you add the Ref-Image, making sure to follow the class word you want to customize with the trigger word: `img`, such as: `man img` or `woman img` or `girl img`.
 - Enter the prompt array, each line corrsponds to one generated image.
 - Choose your preferred style template.
 
