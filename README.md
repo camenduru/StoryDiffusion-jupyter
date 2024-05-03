@@ -18,4 +18,4 @@ https://arxiv.org/abs/2405.01434
 https://storydiffusion.github.io/
 
 ### 🖼 Output
-
+![image](https://github.com/camenduru/StoryDiffusion-jupyter/assets/54370274/748717a8-95b3-4b2e-9e16-d7813f86bd3b)
