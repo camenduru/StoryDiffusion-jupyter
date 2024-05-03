@@ -6,7 +6,7 @@
 
 | Notebook | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/StoryDiffusion-jupyter/blob/main/StoryDiffusion_jupyter.ipynb) | StoryDiffusion_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/StoryDiffusion-jupyter/blob/main/StoryDiffusion_jupyter.ipynb) | StoryDiffusion_jupyter (Pro Colab 😭)
 
 ### 🧬 Code
 https://github.com/HVision-NKU/StoryDiffusion
